@@ -63,12 +63,7 @@ Advanced Asset Management/
 
 ### Setup
 
-1. Navigate to the project directory:
-```bash
-cd "MIF 2024/Advanced Asset Management"
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
